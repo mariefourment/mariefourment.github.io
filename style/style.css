@@ -41,7 +41,7 @@ ul{
 
 
 img{
-	height: 10em;
+	height: 15em;
 	margin-top: 160px;
 	margin-left: 80px;
 }
@@ -58,12 +58,11 @@ p{
 }
 
 #conteneur img{
-	height: 30em;
+	height: 25em;
 	margin-top: 60px;
 	margin-left: 130px;
 	height: 10em;
-	margin-top: 20px;
-	margin-left: 300px;
+	
 
 
 }
