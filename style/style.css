@@ -58,8 +58,8 @@ p{
 }
 
 #conteneur img{
-	height: 20em;
-	margin-top: 20px;
+	height: 30em;
+	margin-top: 60px;
 	margin-left: 130px;
 	height: 10em;
 	margin-top: 20px;
@@ -69,9 +69,9 @@ p{
 }
 
 #image img{
-	height: 17em;
+	height: 15em;
 	margin-top: 100px;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 
 #affiche img{
