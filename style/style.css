@@ -48,7 +48,7 @@ img{
 
 p{
 	font-family: 'Roboto', sans-serif;
-	font-size: 2.5em;
+	font-size: 1em;
 	line-height: 3em;
 	font-size: 0.8em;
 	line-height: 2em;
@@ -65,7 +65,7 @@ p{
 }
 
 #image img{
-	height: 10em;
+	height: 20em;
 	margin-top: 80px;
 	margin-left: 5px;
 }
